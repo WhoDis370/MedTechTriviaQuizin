@@ -1,0 +1,9 @@
+Volt,300,3,1
+Beta,200,4,1
+Charlie,400,4,1
+Alpha,300,2,1
+Testin,800,1,1
+TestinAgain,690,1,1
+Alpha,700,3,2
+Woag,800,2,2
+Tres,500,4,2
